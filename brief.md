@@ -37,3 +37,6 @@ The transmission of sensitive identity data requires robust end-to-end transport
 
 ## 10. Analytical Evaluation: Misconceptions and Open Questions
 A prevalent misconception among technical stakeholders is that scaling cryptographic layers automatically creates systemic network bottlenecks on mobile end-points. In reality, modern mobile system-on-chip (SoC) architectures feature dedicated cryptographic co-processors that handle intensive operations seamlessly. An ongoing open question is how decentralized blockchain consensus can be efficiently balanced with central national registries to handle failovers without introducing fresh security vulnerabilities.
+
+## 11. Final Revised System Overview
+Upon review, the final system framework confirms that separating identity verification layers from the core application pipeline significantly optimizes overall performance. This ensures high availability across mobile interfaces while strictly complying with the technical and operational guidelines mandated by Oman's national digital infrastructure.
